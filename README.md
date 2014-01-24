@@ -3,7 +3,7 @@ gps-distance
 
 [![NPM](https://nodei.co/npm/gps-distance.png)](https://nodei.co/npm/gps-distance/)
 
-A node module for performing distance calculations between GPS coordinates
+Module for performing distance calculations between GPS coordinates
 
 Example
 -------
@@ -37,3 +37,4 @@ Notes
 -----
 
 Distances are returned in kilometers and computed using the Haversine formula.
+

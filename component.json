@@ -1,0 +1,14 @@
+{
+  "name": "gps-distance",
+  "repo": "cargosafe/gps-distance",
+  "description": "Distance calculations between GPS-coordinates",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "lib/distance.js",
+  "scripts": [
+    "lib/distance.js"
+  ]
+}
